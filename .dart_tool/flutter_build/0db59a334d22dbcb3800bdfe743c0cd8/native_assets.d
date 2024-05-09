@@ -1,0 +1,1 @@
+ /Users/bitspilani/Documents/Semester\ 3/Cross\ Platform\ Applications/quicktask/.dart_tool/flutter_build/0db59a334d22dbcb3800bdfe743c0cd8/native_assets.yaml: 

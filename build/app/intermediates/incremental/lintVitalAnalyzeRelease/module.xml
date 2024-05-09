@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app"
+    bootClassPath="/Users/bitspilani/Library/Android/sdk/platforms/android-34/android.jar:/Users/bitspilani/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

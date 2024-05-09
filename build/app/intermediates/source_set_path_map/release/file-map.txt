@@ -1,0 +1,16 @@
+com.example.quicktask.app-jetified-window-1.0.0-beta04-0 /Users/bitspilani/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.quicktask.app-jetified-annotation-experimental-1.1.0-1 /Users/bitspilani/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.quicktask.app-core-1.6.0-2 /Users/bitspilani/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.quicktask.app-jetified-window-java-1.0.0-beta04-3 /Users/bitspilani/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.quicktask.app-main-4 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/android/app/src/main/res
+com.example.quicktask.app-release-5 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/android/app/src/release/res
+com.example.quicktask.app-pngs-6 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/generated/res/pngs/release
+com.example.quicktask.app-resValues-7 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/generated/res/resValues/release
+com.example.quicktask.app-rs-8 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/generated/res/rs/release
+com.example.quicktask.app-mergeReleaseResources-9 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.quicktask.app-mergeReleaseResources-10 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.quicktask.app-merged_res-11 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/app/intermediates/merged_res/release
+com.example.quicktask.app-packaged_res-12 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/connectivity_plus/intermediates/packaged_res/release
+com.example.quicktask.app-packaged_res-13 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/package_info_plus/intermediates/packaged_res/release
+com.example.quicktask.app-packaged_res-14 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/path_provider_android/intermediates/packaged_res/release
+com.example.quicktask.app-packaged_res-15 /Users/bitspilani/Documents/Semester 3/Cross Platform Applications/quicktask/build/shared_preferences_android/intermediates/packaged_res/release
